@@ -1,0 +1,3 @@
+- Todos los grupos deben tener 4 materias.
+- Hay que crear las materias de un grupo seguidas.
+- Un maestro no pueden tener más de 4 materias.
